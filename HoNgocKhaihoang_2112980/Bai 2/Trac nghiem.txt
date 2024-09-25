@@ -1,0 +1,20 @@
+Câu 1. WWW là viết tắt của?
+
+B. World Wide Web
+
+Câu 2. URL là gì?
+
+C. Định vị một tài nguyên cụ thể trên web
+
+
+Câu 3. The Web is an information system where documents and other web resources are identified by Uniform Resource Locators (URLs, such as https://example.com/), which may be interlinked by ________, and are accessible over the Internet.
+
+D. hyperlinks
+
+Câu 4. HTML là viết tắt của?
+
+C. HyperText Markup Language
+
+Câu 5. Trình duyệt web là một ứng dụng phần mềm để truy cập thông tin trên World Wide Web. Mỗi trang web, hình ảnh và video riêng lẻ được xác định bằng một _________ riêng biệt, cho phép các trình duyệt truy xuất và hiển thị chúng trên thiết bị của người dùng.
+
+D. URL
